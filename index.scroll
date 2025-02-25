@@ -1,7 +1,7 @@
 buildHtml
 theme roboto
 editButton edit.html
-container
+container 600px
 
 # Particle Chain Demos
 
