@@ -5,10 +5,7 @@ container 600px
 
 # Particle Chain Demos
 
-iframe
- src demo.html
- width 600
- height 600
+iframes demo.html
 
 Links
 - Demo
