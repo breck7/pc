@@ -1,11 +1,10 @@
 buildHtml
 theme roboto
 editButton edit.html
-container 600px
+container 1000px
 
 # Particle Chain Demos
 
-demoBody.scroll
 
 Links
 - Demo
@@ -14,3 +13,5 @@ Links
  https://sit.scroll.pub/
 - Original blog post
  https://breckyunits.com/particleChain.html
+
+demoBody.scroll
