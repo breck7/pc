@@ -7,6 +7,8 @@ container 600px
 
 iframe
  src demo.html
+ width 600
+ height 600
 
 Links
 - Demo
