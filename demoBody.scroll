@@ -1,0 +1,28 @@
+h1 ParticleChain Cryptocurrency Demo
+ style text-align: center; margin-bottom: 20px
+div
+ class container
+ div
+  class section
+  h2 Network
+  svg
+   id networkCanvas
+  p
+   span Network Nodes
+    class node
+   span  | 
+   span Users
+    class user-node
+   span  | 
+   span Transactions
+    class message
+ div
+  class section
+  h2 Particle Chain
+  div
+   id chainContent
+ div
+  class section
+  h2 File Tree
+  div
+   id fileTree
