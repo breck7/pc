@@ -1,4 +1,5 @@
 buildHtml
+buildTxt readme.md
 theme roboto
 editButton edit.html
 container 1000px
