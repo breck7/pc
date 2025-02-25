@@ -2,11 +2,9 @@ h1 ParticleChain Cryptocurrency Demo
  style text-align: center; margin-bottom: 20px
 div
  class container
- div
+ div <svg id="networkCanvas"></svg>
   class section
   h2 Network
-  svg
-   id networkCanvas
   p
    span Network Nodes
     class node
