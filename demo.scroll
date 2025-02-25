@@ -3,6 +3,8 @@ https://sdk.scroll.pub/products/Utils.browser.js
 https://sdk.scroll.pub/products/Particle.browser.js
 title ParticleChain Crypto Demo
 demo.css
+h1 ParticleChain Cryptocurrency Demo
+ style text-align: center; margin-bottom: 20px
 demoBody.scroll
 https://d3js.org/d3.v7.min.js
 demo.js
